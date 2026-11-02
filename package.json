@@ -1,0 +1,1 @@
+{"name":"daywork","version":"1.0.0","private":true,"type":"module","engines":{"node":">=22"},"scripts":{"dev":"node --env-file-if-exists=.env.local server.mjs","demo":"node server.mjs --demo","build":"node scripts/check.mjs","test":"node --test"}}
